@@ -1,6 +1,6 @@
 ### Marlon Concenza 🖖
 
-- 💼 Atualmente trabalho na [SETIS Automação e Sistemas Ltda](https://setis.com.br)
+- 💼 Atualmente trabalho na [ClearSale](https://br.clear.sale)
 - 💪 Mais de 11 anos de experiência em análise e desenvolvimento de sistemas
 - 🔎 Focado em desenvolvimento com plataforma .NET (C#, .Net Core, APIs)
 - 🧠 Estudando desenvolvimento com Javascript (React, React Native e NodeJS)
